@@ -26,7 +26,7 @@ const CONFIG = {
 	bentoLayout: "bento", // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: "bd623cc73adf4822f8f297512ad415d4", // Write here your API Key
+	weatherKey: "Sus69", // Write here your API Key
 	weatherIcons: "OneDark", // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: "C", // 'F', 'C'
 	language: "it", // More languages in https://openweathermap.org/current#multi
